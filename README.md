@@ -1,6 +1,6 @@
 # cuoiki_git_dev
 Repo cho môi trường phát triển (Dev) của bài tập.
-# Chiều thứ 4 _ca2
+# Sáng thứ 4 _ca1
 <h1> Sáng thứ 4_ca2</h1>
 ## Báo cáo Hoàn thành Bài tập:
 - Yêu cầu Sửa Code (Bước 2): Đã hoàn thành.
